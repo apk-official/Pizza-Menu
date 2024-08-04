@@ -9,10 +9,6 @@ I created this project to learn about React components and props. It's a simple 
 - **Frontend:**
   - React
 
-## 📚 Libraries and tools used
-
-No external libraries were used.
-
 ## 🖼️ Screenshot of the project
 
 Include a screenshot or gif of your project in action.
