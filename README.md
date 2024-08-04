@@ -29,8 +29,14 @@ Include a screenshot or gif of your project in action.
    git clone https://github.com/yourusername/pizza-menu.git
    ```
 2. Navigate to the project directory
+   ```sh
    cd pizza-menu
+   ```
 3. Install dependencies
+   ```sh
    npm install
+   ```
 4. Run the project
+   ```sh
    npm start
+   ```
